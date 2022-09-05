@@ -13,7 +13,7 @@
 # rasterdiv
 # viridis
 
-# How to install them, e,g,:
+# How to install them, e.g. just type the following command in the R console:
 
 install.packages("raster")
 
